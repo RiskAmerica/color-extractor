@@ -1,10 +1,10 @@
 <?php
 
-namespace League\ColorExtractor\Test;
+namespace riam\ColorExtractor\Test;
 
-use League\ColorExtractor\Color;
-use League\ColorExtractor\ColorExtractor;
-use League\ColorExtractor\Palette;
+use riam\ColorExtractor\Color;
+use riam\ColorExtractor\ColorExtractor;
+use riam\ColorExtractor\Palette;
 use PHPUnit\Framework\TestCase;
 
 class PaletteTest extends TestCase

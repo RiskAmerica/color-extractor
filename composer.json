@@ -1,5 +1,5 @@
 {
-    "name": "league/color-extractor",
+    "name": "riam/color-extractor",
     "type": "library",
     "description": "Extract colors from an image as a human would do.",
     "keywords": ["image", "color", "extract", "palette", "human"],
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "src"
+            "riam\\ColorExtractor\\": "src"
         }
     }
 }
